@@ -14,3 +14,25 @@ We checked the PMD Collab SpriteCollab repository (sprites.pmdcollab.org / GitHu
 That art is outside the CC BY-NC grant and would break this project's "no official art" rule, so **it is not included**.
 
 Pokémon is a trademark of Nintendo / Creatures Inc. / GAME FREAK inc. This is a non-commercial fan project with no affiliation.
+
+## Fan-art sprite search (Nov 2026): nothing qualified, nothing bundled
+
+Criteria: original drawings by community artists (not ripped, traced, devamped or recoloured from official sprites or Sugimori art), covering #1–251, with a license that explicitly allows non-commercial redistribution.
+
+| Candidate | License / terms | Origin of the art | Verdict |
+|---|---|---|---|
+| PMD SpriteCollab, https://sprites.pmdcollab.org/ | CC BY-NC (repo policy) | Base portraits/sprites for #1–251 credited to CHUNSOFT (official) | Rejected: official base art |
+| Veekun downloads, https://veekun.com/dex/downloads | none | Official game rips | Rejected |
+| rby-sprites-project, https://github.com/ShiraTheMogul/rby-sprites-project | none | Archive of official Gen 1 sprites | Rejected |
+| Nackha1/Hd-sprites (TilableToast / FurretTurret), https://github.com/Nackha1/Hd-sprites | No license; "do not upload without permission" | Gen 1 only | Rejected: no redistribution right |
+| u/metalflygon08 "Every Gen 2 Pokémon in Gen 1's style", https://www.reddit.com/r/PokemonRMXP/comments/1458z78/ | Informal "free to use", no license | #152–251 only, based on official Spaceworld '97 demo sprites | Rejected: derived, no license |
+| Smogon Sprite Project / smogon/sprites, https://www.smogon.com/forums/threads/smogon-sprite-project.3647722/ , https://github.com/smogon/sprites | Community license "still being determined" | Community art is for Gen 6+; Gen 1–2 sprites are official | Rejected |
+| FrenchOrange "RSE Devamps – Johto Back Sprites", https://www.deviantart.com/frenchorange/art/RSE-Devamps-Johto-Back-Sprites-1285390594 | "Free to use with credit", no formal license | Devamped from official RSE back sprites | Rejected: derived |
+| Willibab "Kanto Sprites (wip)", https://www.deviantart.com/willibab/art/Kanto-Sprites-%28wip%29-942621579 | CC BY-NC 3.0, http://creativecommons.org/licenses/by-nc/3.0/ | Artist calls them "sort of devamps" of existing sprites; Kanto only, WIP | Rejected: derived |
+| PokeCommunity "Generation 1 Format Sprite Resource", https://www.pokecommunity.com/threads/generation-1-format-sprite-resource.396455/ | none | Batch-converted official sprites | Rejected |
+| PokeCommunity "GBC Battle Sprite Revamps for GBA", https://www.pokecommunity.com/threads/gbc-battle-sprite-revamps-for-gba-now-available-as-a-patch.499970/ | Credit list only, no license | Revamps of official RBY/GSC/RS sprites | Rejected: derived, no license |
+| PokeCommunity "GBA-style 64x64 Sprite Resource", https://www.pokecommunity.com/threads/the-gba-style-64x64-pok%C3%A9mon-sprite-resource.397576/ | none; Gen 1–3 reserved by the owner | Colours taken from Sugimori art | Rejected |
+| PokeCommunity "Gen 2-Style 56x56 Sprite Resource", https://www.pokecommunity.com/threads/gen-2-style-56x56-sprite-resource.396947/ | none | Devamps of later-gen species, not #1–251 | Rejected |
+| DistTopic/padventures-sprites, https://github.com/DistTopic/padventures-sprites | CC BY-NC-SA 4.0 for "original contributions only" | Extracted game-client sheets from PAdventures (a fan MMO), no per-artist credits; the license does not cover the imagery | Rejected: unclear provenance, not battle sprites |
+
+The game ships its own procedural sprites. The optional sprite-pack loader (README) lets a player load art they have the rights to.
